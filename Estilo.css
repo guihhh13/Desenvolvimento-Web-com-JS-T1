@@ -22,6 +22,7 @@ div.home{
 	width: 600px;
     height: 8%;
     padding: 10px;
+    margin-top: none;
 }
 header.fixo
 {
@@ -42,17 +43,26 @@ div.main{
     left: 1230;
     right: 230;
     margin-left: 350px;
-    padding: 20px;
+    padding-right: 350px;
 }
 p{
     color: #FFFFFF;
     font-size: 18px;
 }
 
-.centro
+.centro_1
 {
     display: block;
     margin-left: 70px;
     margin-right: 30px;
     margin-top: 5%;
+    height:50px;
 }
+
+.centro_2
+{
+    display: block;
+    margin-left: 70px;
+    margin-right: 30px;
+    margin-top: 5%;
+    height:50px;
