@@ -11,10 +11,11 @@ a{
     font-family: arial black;
 }
 
-div.home{
+.inicial{
     background-color: rgb(20, 30, 40);
     position: fixed;
     left: 320px;
+    top: 0px;
     border: 1px solid #ffffff;
     border-left: none;
     border-top: none;
@@ -22,7 +23,7 @@ div.home{
 	width: 600px;
     height: 8%;
     padding: 10px;
-    margin-top: none;
+ 
 }
 
 .opcoes{
@@ -31,45 +32,88 @@ div.home{
     height: 1000px;
 }
 
-.busca{
-    margin: 20px;
-    margin-top: 0;
-    border-radius: 50px;
-    border: 0.5px solid #ffffff;
-    text-align: center;
+.base{
+    margin:1px;
+    margin-left: 945px;
+    background-color: rgb(20, 30, 40);
+    position: fixed;
+    top: 0px;
+    border-top: none;
+    border-bottom: none;
+    box-sizing: border-box;
+    width: 600px;
+    height: 8%;
+    padding: 10px;
 }
 
-.tendencias, .sugestoes{
+.busca{
+    position: fixed;
+    box-sizing: border-box;
+    background-color: rgb(37, 51, 65);
     margin: 20px;
+    margin-top: 0px;
+    border-radius: 50px;
+    border: 0.5px solid rgb(29, 154, 231);
+    width: 23%; 
+    height: 30px;
+
+}
+input{
+    background-color: rgb(20, 30, 40);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    width: 99%;
+    height: 28px;
+    
+  
+  }
+
+.tendencias{
+    background-color: rgb(37, 51, 65);
+    margin: 20px;
+    margin-top: 50px;
     border-radius: 15px;
-    border: 0.5px solid #ffffff;
+
+}
+.sugestoes{
+    background-color: rgb(37, 51, 65);
+    margin: 20px;
+    margin-top: 10px;
+    border-radius: 15px;
+
 }
 
 .tendencias li, .sugestoes li{
     list-style-type: none;
 }
 
-header.fixo
+.esquerdo
 {
     position: fixed;
+    background-color:   rgb(20, 30, 40);
     top: 0px;
     left: 0px;
     border: 1px solid #ffffff;
     border-bottom: none;
     border-top: none;
+    border-left: none;
     box-sizing: border-box;
     width: 320px;
     height:100%;
 }
 
-div.main{
-    display: block;
-    top: 100px;
-    left: 1230;
-    right: 230;
-    margin-left: 350px;
+.principal{
+    margin-left: 310px;
+    margin-right: 390px;
     padding-right: 350px;
     padding-top: 50px;
+    padding-left:30px;
+    background-color:rgb(20, 30, 40);
+    border: 1px solid #ffffff;
+    border-top: none;
+    border-left: none;
+    width: 221px;
 }
 
 
@@ -94,3 +138,4 @@ p{
     margin-right: 30px;
     margin-top: 5%;
     height:50px;
+}
