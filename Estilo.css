@@ -3,11 +3,11 @@ body
     background-color: rgb(20, 30, 40);
 }
 
-a{
+a.inicial1{
     text-decoration: none;
     color: white;
     font: bold;
-    font-size: 20   px;
+    font-size: 20px;
     font-family: arial black;
 }
 
@@ -58,8 +58,8 @@ a{
     height: 30px;
 
 }
-input{
-    background-color: rgb(20, 30, 40);
+input.find{
+    background-color: rgb(37, 51, 65);
     border: none;
     border-radius: 50px;
     color: white;
@@ -105,15 +105,17 @@ input{
 
 .principal{
     margin-left: 310px;
-    margin-right: 390px;
+    margin-right: 100px;
     padding-right: 350px;
-    padding-top: 50px;
-    padding-left:30px;
+    padding-top: 30px;
+    padding-bottom:0px;
     background-color:rgb(20, 30, 40);
     border: 1px solid #ffffff;
     border-top: none;
     border-left: none;
-    width: 221px;
+    border-bottom: none;
+    width: 251px;
+    height: 100%;
 }
 
 
@@ -131,11 +133,50 @@ p{
     height:50px;
 }
 
-.centro_2
+.centro_2, .centro_3
 {
     display: block;
+    padding: 5px;
+    padding-left:0px;
     margin-left: 70px;
-    margin-right: 30px;
+    margin-right:30px;
     margin-top: 5%;
-    height:50px;
+    Height:20px;
 }
+.tendencias_1{
+    margin: 20px;
+    margin-top: 50px;
+    border-radius: 15px;
+    font-size: 20px;
+    font-family: arial black;
+}
+.imagem{
+    float: left;
+    padding-top: 11px;
+    height: 50px;
+    width: 50px;
+    margin: 0px;
+   }
+
+.chat{
+    margin-left: 60px;
+    width: 540px;
+    
+}
+.post{
+    background-color: rgb(20, 30, 40);
+    border: none;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    width:530px;
+}
+
+   .separar{
+   background-color: rgb(37, 51, 65);
+   box-sizing: border-box;
+   width: 601px;
+   height: 10px;
+   margin-top: 30px;
+
+   }
