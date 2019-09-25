@@ -1,0 +1,491 @@
+
+
+.LE-C02{
+    box-sizing: border-box;
+    width: 20%;
+    height: 100%;
+    padding: 20px;
+    margin-left:10px;
+    margin-right: 0px;
+    position:fixed;
+}
+
+.BE-C03{
+    box-sizing: border-box;
+    height: 250px;
+    width: 100%;
+    padding: 20px;
+
+}
+.P-C05{
+    padding-left: 15px;
+}
+
+.TOIE-C06{  
+    position: relative;
+    box-sizing: border-box;
+    height: 350px;
+    width: 235px;
+    margin-top: 2px;
+    margin-bottom: 4px;
+
+}
+
+.nav01{
+    height: 350px;
+    width: 235px;
+    padding: 4px;
+    flex-direction: column;
+}
+.EHC-07{
+    padding: 10px;
+}
+.img_perfil{
+    max-width:25px;
+    max-height:25px;
+    width: auto;
+    height: auto;
+}
+.IPI-C07{
+    box-sizing: border-box;
+    float: left;
+    height: 25px;
+    width: 25px;
+
+}
+
+
+.TPIC7{
+    box-sizing: border-box;
+    display: inline;
+    margin-left:20px;
+    margin-right: 15px;
+    
+
+}
+.texto-twt{
+    box-sizing: border-box;
+    color: rgb(29, 161, 242);
+    font-size: 19px;
+    font-family: Arial;
+    font-weight: bold;
+}
+span{
+
+    box-sizing: border-box;
+    color: white;
+    font-size: 19px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+a{
+    text-decoration:none;
+}
+
+.BT-C08{
+    background-color: rgb(29, 161, 242);
+    box-sizing: border-box;
+    height: 50px;
+    width: 210px;
+    border-style: solid;
+    border-color: transparent;
+    border-radius: 40px;
+}
+.BT-C08-1
+{
+    background-color: rgb(29, 161, 242);
+    box-sizing:border-box;
+    height: 21px;
+    width: 71px;
+    margin-top: 12px;
+    margin-left: 71px;
+}
+
+span.tweet{
+     color: white;
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.PP-C09{
+    position: absolute;
+    left: 305px;
+    top:0;
+    width: 75%;
+    margin:0 auto;
+
+}
+.PM-C10{
+    margin-top: -10px;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    border-top: none;
+    border-bottom: NONE;
+    height: 1000px;
+    width: 60%;
+    position: absolute;
+
+}
+
+.PM-E01{
+    background-color:rgb(20, 30, 40);
+    box-sizing: border-box;
+    border:solid;
+    border-left: none;
+    border-top: none;
+    border-bottom:1px solid gray;
+    border-right: none;
+    width:44.8%;
+    height: 50px;
+    padding-top: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 0;
+    position: fixed
+    
+}
+.PI-E01{
+    box-sizing: border-box;
+    display: inline;
+}
+.inicial1{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: arial black;
+}
+.EPC01{
+    float: right;
+    height: 50px;
+    width: 30px;
+    margin-left: 20px;
+}
+.PD-C11{
+    position: absolute;
+    top: 0%;
+    left: 60%;
+    height: 500px;
+    width:  303px;
+    /* background-color: white */
+    box-sizing: border-box;
+ }
+
+ .PM-E02{
+    position: relative;
+    top:50px;
+    margin-top: 10px;
+ }
+
+.O_que_está_Acontecendo{
+    box-sizing: border-box;
+    width: 100%;
+    height: 100px;
+}
+
+.PM-04{
+    height: 85%;
+    width: 100%;
+}
+
+.postagem{
+    width: 100%;
+    height: 35%;
+}
+
+.containerfoto{
+    float: left;
+    width: 15%;
+    height: 100%;
+}
+
+.iconefoto{
+    width: 100%;
+    height: 25%;
+}
+
+.foto{
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    border-radius: 50px;
+    border: 0.5px solid black;
+}
+
+.conteudopostagem{
+    height: 100%;
+    width: 85%;
+    margin-left: 15%;
+    border: 0.5px solid black;
+}
+
+.QuebraDeLinha{
+    height:0%;
+    width: 100%;
+    position:absolute;
+    z-index: -1;
+
+    }
+.DALL{
+
+    margin-top:50px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100px;
+    padding-left: 10px;
+}
+.DPI{
+    box-sizing: border-box;
+    padding-top: 10px;
+    width: 50px;
+    height: 90px; 
+    margin-bottom: -70px;
+
+}
+.TMD{
+    height: 50px;
+    width: 50px;
+}
+.IMGC{
+    width: 50px;
+    height: 50px;
+}
+.IMAGEM{
+    max-width:50px;
+    max-height:50px;
+    width: auto;
+    height: auto;
+}
+.DPT{
+    box-sizing: border-box;
+    height:70px;
+    width: 70%;
+    float: left;
+    margin-left: 60px;
+}
+.TXTC{
+    height: 70px;
+    width: 100%;
+}
+.Text{
+    background-color: rgb(20, 30, 40);
+    border: none;
+    color: white;
+    font-size: 20px;
+    height: 30px;
+    width:90%;
+}
+.FULLB{
+    width: 100%;
+    height: 100%;
+}
+.Margin{
+    margin-top: 2px;
+}
+.base{
+    box-sizing: border-box;
+    position: fixed;
+    width: 24.8%;
+    margin-left: 11px;
+}
+.busca{
+    box-sizing: border-box;
+    margin: 20px;
+    margin-top: 0px;
+    border-radius: 50px;
+    border: 0.5px solid rgb(29, 154, 231);
+    width: 100%; 
+    height: 40px;
+    background-color: rgb(37, 51, 65);
+}
+.pesquisa{
+    box-sizing: border-box;
+    position: absolute;
+    top: 5px;
+    left: 55px;
+}
+input.find{
+    background-color: rgb(37, 51, 65);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    width: 80%;
+    height: 28px;
+}
+.lupa{
+    box-sizing: border-box;
+    width: 30px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 2px;
+    border-radius: 50px;
+    margin-top: 4px;
+    margin-left: 1px;
+    background-color: rgb(37, 51, 65);
+
+}
+.lupaTamanho{
+    max-width:25px;
+    max-height:25px;
+    width: auto;
+    height: auto;
+}
+.Assuntos{
+    position: relative;
+    top: 55px;
+    left: 30px;
+    z-index: -1;
+    border: 1px;
+    border-radius: 5%;
+    width: 100%;
+    height: 410px;
+    background-color: rgb(37, 51, 65);
+}
+.APV-C01{
+    border: 1px solid grey;
+    border-top: none;
+    border-left:none;
+    border-right: none;
+    height: 40px;
+
+    }
+.APV-TXT{
+    width: 273px;
+    margin-top: -15px;
+    padding-left: 15px;
+    padding-bottom: 1px;
+}
+.APV-IMGE{
+    position: absolute;
+    top: 9px;
+    left: 250px;
+    z-index: -1;
+    max-width:20px;
+    max-height:20px;
+    width: auto;
+    height: auto;
+}
+
+.APV-C02{
+    border: 1px solid grey;
+    border-top: none;
+    border-left:none;
+    border-right: none;
+    height: 80px;
+    box-sizing: border-box;
+}
+.spanzin{
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 13px;
+    color: rgb(130, 150, 160);
+    
+}
+.Hashtag{
+    font-size: 14px;
+    padding-left: 15px;
+}
+.NTweet{
+    font-size: 15px;
+    color: rgb(130, 150, 160);
+    padding-left: 15px;
+ }
+ .ShowMore{
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+ }
+ .SM{
+    box-sizing: border-box;
+    padding:15px;
+ }
+
+.SMS{
+    font-size: 15px;
+    color: rgb(29, 154, 231);
+}
+.QuemSeguir{
+    position: relative;
+    top: 65px;
+    left: 30px;
+    border: 1px;
+    border-radius: 5%;
+    width: 100%;
+    height: 280px;
+    background-color: rgb(37, 51, 65);
+}
+.QSC-01{
+    border: 1px solid grey;
+    border-top: none;
+    border-left:none;
+    border-right: none;
+    height: 40px;
+}
+  .QSC-02{
+    border: 1px solid grey;
+    border-top: none;
+    border-left:none;
+    border-right: none;
+    height: 60px;
+    box-sizing: border-box;
+}  
+
+.FT{
+    box-sizing: border-box;
+    width: 50px;
+    height: 50px;
+    padding:5px;
+}
+
+.FotoIMG{
+    width: 39px;
+    height: 39px;
+    max-width: auto;
+    max-height: auto;
+}
+
+.NM{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: -50px;
+    left: 50px;
+    box-sizing: border-box;
+}
+
+.NomeB{
+  height:50px;
+  width:70px;  
+}
+.NomeTXT{
+    padding-top: 5px;
+}
+
+.NomeA{
+    padding-top: 5px;
+}
+.Follow{
+    position: relative;
+    top: -40px;
+    left: 120px;
+    box-sizing: border-box;
+    border-radius: 100px;
+    border: 1px solid rgb(29, 154, 231);
+    height: 30px;
+    width: 100px;
+    padding-top: 5px;
+}
+
+.Follow-E{
+    box-sizing: border-box;
+    width: 100px;
+    height: 30px;
+}
+.texto-fllw{
+    box-sizing: border-box;
+    color: rgb(29, 161, 242);
+    font-size: 17px;
+    padding-left: 20px;
+    padding-right: 15px;
+}
