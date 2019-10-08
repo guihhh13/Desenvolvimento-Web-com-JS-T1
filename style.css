@@ -192,6 +192,7 @@ span.tweet{
 .postagem{
     width: 100%;
     height: 45%;
+    border-bottom: 1px solid gray;
 }
 
 .containerfoto{
@@ -273,6 +274,22 @@ span.tweet{
 .conteudofoto img{
     height: 100%;
     width: 100%;
+}
+
+.icones{
+    height: 10%;
+    width: 100%;
+}
+
+.comentarios, .retweets, .favorito, .upload{
+    height: 100%;
+    width: 15%;
+    float: left;
+}
+
+.postagem2{
+    width: 100%;
+    height: 20%;
 }
 
 .QuebraDeLinha{
