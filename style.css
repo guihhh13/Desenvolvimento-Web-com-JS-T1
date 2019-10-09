@@ -562,3 +562,53 @@ input.find{
     padding-left: 20px;
     padding-right: 15px;
 }
+.TXTBC{
+    position: relative;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+
+}
+.TXTBE{
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 37px;
+    height: 37px;
+}
+.TXTBE-01{
+    position: relative;
+    z-index: -1;
+
+    top: 17px;
+    left: 20px;
+
+}
+.TXTBE-02{
+    position: relative;
+    z-index: -1;
+
+    top: -10px;
+    left: 50px;
+}
+.TXTBE-03{
+    position: relative;
+    z-index: -1;
+
+    top: -36px;
+    left: 80px;
+}
+.TXTBE-04{
+    position: relative;
+    z-index: -1;
+
+    top: -62px;
+    left: 100px;
+}
+.TXTBIMG{
+    max-width: 25px;
+    max-height: 25px;
+    width: 100%;
+    height: 100%;
+
+}
+
