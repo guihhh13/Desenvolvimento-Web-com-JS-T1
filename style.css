@@ -612,3 +612,6 @@ input.find{
 
 }
 
+.borda{
+    border: solid rgb(37, 51, 65);
+}
