@@ -8,6 +8,7 @@
     margin-left:10px;
     margin-right: 0px;
     position:fixed;
+
 }
 
 .BE-C03{
@@ -17,6 +18,7 @@
     padding: 20px;
 
 }
+
 .P-C05{
     padding-left: 15px;
 }
@@ -36,16 +38,22 @@
     width: 235px;
     padding: 4px;
     flex-direction: column;
+
 }
+
 .EHC-07{
+
     padding: 10px;
 }
+
 .img_perfil{
     max-width:25px;
     max-height:25px;
     width: auto;
     height: auto;
+
 }
+
 .IPI-C07{
     box-sizing: border-box;
     float: left;
@@ -54,33 +62,34 @@
 
 }
 
-
 .TPIC7{
     box-sizing: border-box;
     display: inline;
     margin-left:20px;
     margin-right: 15px;
-    
 
 }
+
 .texto-twt{
     box-sizing: border-box;
     color: rgb(29, 161, 242);
     font-size: 19px;
     font-family: Arial;
     font-weight: bold;
+
 }
 span{
-
     box-sizing: border-box;
     color: white;
     font-size: 19px;
     font-family: Arial;
     font-weight: bold;
+
 }
 
 a{
     text-decoration:none;
+
 }
 
 .BT-C08{
@@ -91,7 +100,9 @@ a{
     border-style: solid;
     border-color: transparent;
     border-radius: 40px;
+
 }
+
 .BT-C08-1
 {
     background-color: rgb(29, 161, 242);
@@ -100,6 +111,7 @@ a{
     width: 71px;
     margin-top: 12px;
     margin-left: 71px;
+
 }
 
 span.tweet{
@@ -107,6 +119,7 @@ span.tweet{
     font-size: 15px;
     font-family: Arial;
     font-weight: bold;
+    
 }
 
 .PP-C09{
@@ -117,6 +130,7 @@ span.tweet{
     margin:0 auto;
 
 }
+
 .PM-C10{
     margin-top: -10px;
     box-sizing: border-box;
@@ -149,56 +163,65 @@ span.tweet{
 .PI-E01{
     box-sizing: border-box;
     display: inline;
+
 }
 .inicial1{
     text-decoration: none;
     color: white;
     font-size: 18px;
     font-family: arial black;
+
 }
 .EPC01{
     float: right;
     height: 50px;
     width: 30px;
     margin-left: 20px;
+
 }
+
 .PD-C11{
     position: absolute;
     top: 0%;
-    left: 60%;
+    left: 100%;
     height: 500px;
     width:  303px;
-    /* background-color: white */
     box-sizing: border-box;
+
  }
 
  .PM-E02{
     position: relative;
     top:50px;
     margin-top: 10px;
+
  }
 
 .O_que_está_Acontecendo{
     box-sizing: border-box;
     width: 100%;
     height: 100px;
+
 }
 
 .PM-04{
     height: 85%;
     width: 100%;
+
 }
 
 .postagem{
     width: 100%;
     height: 45%;
     border-bottom: 1px solid gray;
+
 }
 
 .containerfoto{
     float: left;
     width: 15%;
     height: 100%;
+
 }
 
 .foto{
@@ -208,51 +231,60 @@ span.tweet{
     box-sizing: border-box;
     border-radius: 100%;
     border: 0.5px solid black;
+
 }
 
 .foto img{
     height: 100%;
     width: 100%;
     overflow: hidden;
+
 }
 
 .conteudopostagem{
     height: 100%;
     width: 85%;
     margin-left: 15%;
+
 }
 
 .informacao{
     height: 10%;
     width: 100%;
+
 }
 
 .nick{
     float: left;
     height: 100%;
     width: 15%;
+
 }
 
 .tag{
     float: left;
     height: 100%;
     width: 15%;
+
 }
 
 .tag p{
     margin: 0;
     color: gray;
+
 }
 
 .horario{
     float: left;
     height: 100%;
     width: 5%;
+
 }
 
 .horario p{
     margin: 0;
     color: gray;
+
 }
 
 .conteudotexto{
@@ -260,25 +292,30 @@ span.tweet{
     width: 100%;
     height: 35%;
     color: white;
+
 }
 
 .conteudotexto p{
     margin: 0;
+
 }
 
 .conteudofoto{
     width: 100%;
     height: 40%;
+
 }
 
 .conteudofoto img{
     height: 100%;
     width: 100%;
+
 }
 
 .icones{
     height: 15%;
     width: 100%;
+    
 }
 
 .comentarios, .retweets, .favorito, .upload{
@@ -286,11 +323,13 @@ span.tweet{
     width: 15%;
     float: left;
     padding-top: 3.5%;
+
 }
 
 .postagem2{
     width: 100%;
     height: 20%;
+
 }
 
 .QuebraDeLinha{
@@ -299,7 +338,8 @@ span.tweet{
     position:absolute;
     z-index: -1;
 
-    }
+}
+
 .DALL{
 
     margin-top:50px;
@@ -308,6 +348,7 @@ span.tweet{
     height: 100px;
     padding-left: 10px;
 }
+
 .DPI{
     box-sizing: border-box;
     padding-top: 10px;
@@ -316,20 +357,24 @@ span.tweet{
     margin-bottom: -70px;
 
 }
+
 .TMD{
     height: 50px;
     width: 50px;
 }
+
 .IMGC{
     width: 50px;
     height: 50px;
 }
+
 .IMAGEM{
     max-width:50px;
     max-height:50px;
     width: auto;
     height: auto;
 }
+
 .DPT{
     box-sizing: border-box;
     height:70px;
@@ -337,10 +382,12 @@ span.tweet{
     float: left;
     margin-left: 60px;
 }
+
 .TXTC{
     height: 70px;
     width: 100%;
 }
+
 .Text{
     background-color: rgb(20, 30, 40);
     border: none;
@@ -349,19 +396,23 @@ span.tweet{
     height: 30px;
     width:90%;
 }
+
 .FULLB{
     width: 100%;
     height: 100%;
 }
+
 .Margin{
     margin-top: 2px;
 }
+
 .base{
     box-sizing: border-box;
     position: fixed;
     width: 24.8%;
     margin-left: 11px;
 }
+
 .busca{
     box-sizing: border-box;
     margin: 20px;
@@ -372,12 +423,14 @@ span.tweet{
     height: 40px;
     background-color: rgb(37, 51, 65);
 }
+
 .pesquisa{
     box-sizing: border-box;
     position: absolute;
     top: 5px;
     left: 55px;
 }
+
 input.find{
     background-color: rgb(37, 51, 65);
     border: none;
@@ -386,6 +439,7 @@ input.find{
     width: 80%;
     height: 28px;
 }
+
 .lupa{
     box-sizing: border-box;
     width: 30px;
@@ -398,12 +452,14 @@ input.find{
     background-color: rgb(37, 51, 65);
 
 }
+
 .lupaTamanho{
     max-width:25px;
     max-height:25px;
     width: auto;
     height: auto;
 }
+
 .Assuntos{
     position: relative;
     top: 55px;
@@ -415,6 +471,7 @@ input.find{
     height: 410px;
     background-color: rgb(37, 51, 65);
 }
+
 .APV-C01{
     border: 1px solid grey;
     border-top: none;
@@ -422,13 +479,15 @@ input.find{
     border-right: none;
     height: 40px;
 
-    }
+}
+
 .APV-TXT{
     width: 273px;
     margin-top: -15px;
     padding-left: 15px;
     padding-bottom: 1px;
 }
+
 .APV-IMGE{
     position: absolute;
     top: 9px;
@@ -448,6 +507,7 @@ input.find{
     height: 80px;
     box-sizing: border-box;
 }
+
 .spanzin{
     padding-top: 15px;
     padding-left: 15px;
@@ -455,29 +515,35 @@ input.find{
     color: rgb(130, 150, 160);
     
 }
+
 .Hashtag{
     font-size: 14px;
     padding-left: 15px;
 }
+
 .NTweet{
     font-size: 15px;
     color: rgb(130, 150, 160);
     padding-left: 15px;
  }
+
  .ShowMore{
     box-sizing: border-box;
     width: 100%;
     height: auto;
  }
+
  .SM{
     box-sizing: border-box;
     padding:15px;
- }
+
+}
 
 .SMS{
     font-size: 15px;
     color: rgb(29, 154, 231);
 }
+
 .QuemSeguir{
     position: relative;
     top: 65px;
@@ -488,6 +554,7 @@ input.find{
     height: 280px;
     background-color: rgb(37, 51, 65);
 }
+
 .QSC-01{
     border: 1px solid grey;
     border-top: none;
@@ -495,7 +562,8 @@ input.find{
     border-right: none;
     height: 40px;
 }
-  .QSC-02{
+
+.QSC-02{
     border: 1px solid grey;
     border-top: none;
     border-left:none;
@@ -531,8 +599,10 @@ input.find{
   height:50px;
   width:70px;  
 }
+
 .NomeTXT{
     padding-top: 5px;
+    
 }
 
 .NomeA{
