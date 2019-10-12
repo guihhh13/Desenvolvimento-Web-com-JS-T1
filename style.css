@@ -258,7 +258,11 @@ span.tweet{
     float: left;
     height: 100%;
     width: 15%;
+}
 
+.nick span{
+    font-family: Arial;
+    font-weight: bold;
 }
 
 .tag{
@@ -271,6 +275,9 @@ span.tweet{
 .tag p{
     margin: 0;
     color: gray;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 90%;
 
 }
 
@@ -284,6 +291,9 @@ span.tweet{
 .horario p{
     margin: 0;
     color: gray;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 90%;
 
 }
 
@@ -297,6 +307,9 @@ span.tweet{
 
 .conteudotexto p{
     margin: 0;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 95%;
 
 }
 
@@ -329,7 +342,18 @@ span.tweet{
 .postagem2{
     width: 100%;
     height: 20%;
+}
 
+.containerfoto2{
+    height: 100%;
+    width: 15%;
+    float: left;
+}
+
+.conteudopostagem2{
+    height: 100%;
+    width: 85%;
+    float: left;
 }
 
 .QuebraDeLinha{
